@@ -1,0 +1,16 @@
+C:\Users\ghkdt\source\repos\Lotto\bin\Debug\net5.0\Lotto.exe
+C:\Users\ghkdt\source\repos\Lotto\bin\Debug\net5.0\Lotto.deps.json
+C:\Users\ghkdt\source\repos\Lotto\bin\Debug\net5.0\Lotto.runtimeconfig.json
+C:\Users\ghkdt\source\repos\Lotto\bin\Debug\net5.0\Lotto.runtimeconfig.dev.json
+C:\Users\ghkdt\source\repos\Lotto\bin\Debug\net5.0\Lotto.dll
+C:\Users\ghkdt\source\repos\Lotto\bin\Debug\net5.0\ref\Lotto.dll
+C:\Users\ghkdt\source\repos\Lotto\bin\Debug\net5.0\Lotto.pdb
+C:\Users\ghkdt\source\repos\Lotto\obj\Debug\net5.0\Lotto.csproj.AssemblyReference.cache
+C:\Users\ghkdt\source\repos\Lotto\obj\Debug\net5.0\Lotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghkdt\source\repos\Lotto\obj\Debug\net5.0\Lotto.AssemblyInfoInputs.cache
+C:\Users\ghkdt\source\repos\Lotto\obj\Debug\net5.0\Lotto.AssemblyInfo.cs
+C:\Users\ghkdt\source\repos\Lotto\obj\Debug\net5.0\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\ghkdt\source\repos\Lotto\obj\Debug\net5.0\Lotto.dll
+C:\Users\ghkdt\source\repos\Lotto\obj\Debug\net5.0\ref\Lotto.dll
+C:\Users\ghkdt\source\repos\Lotto\obj\Debug\net5.0\Lotto.pdb
+C:\Users\ghkdt\source\repos\Lotto\obj\Debug\net5.0\Lotto.genruntimeconfig.cache
